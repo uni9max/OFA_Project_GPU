@@ -1,0 +1,13 @@
+.idea/*
+.DS_Store
+.vscode
+/venv37
+__pycache__/
+*.pyc
+# Ignore large files (handled externally)
+checkpoints/caption/caption_large_best_clean.pt
+dataset/caption_data/caption_stage1_train.tsv
+dataset/caption_data/caption_stage2_train.tsv
+dataset/caption_data/caption_test.tsv
+dataset/caption_data/caption_val.tsv
+dataset/caption_data/cider_cached_tokens/coco-train-words.p

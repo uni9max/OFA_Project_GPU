@@ -1,0 +1,7 @@
+checkpoints/caption/caption_large_best_clean.pt filter=lfs diff=lfs merge=lfs -text
+dataset/caption_data/caption_stage1_train.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/caption_data/caption_stage2_train.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/caption_data/caption_test.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/caption_data/caption_val.tsv filter=lfs diff=lfs merge=lfs -text
+dataset/caption_data/cider_cached_tokens/coco-train-words filter=lfs diff=lfs merge=lfs -text
+dataset/caption_data/cider_cached_tokens/coco-train-words.p filter=lfs diff=lfs merge=lfs -text

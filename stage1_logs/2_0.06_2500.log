@@ -1,0 +1,1 @@
+run_scripts/caption/train_caption_stage1.sh: line 104: --num-workers=0: command not found
